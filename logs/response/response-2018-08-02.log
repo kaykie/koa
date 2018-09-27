@@ -1,0 +1,132 @@
+[2018-08-02T15:22:32.570] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-08-02T15:22:32.641] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /favicon.ico
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-08-02T15:23:07.568] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-08-02T15:24:26.466] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-08-02T15:24:32.320] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: 3
+response status: 200
+response body: 
+{"userName":"阿,李","age":30}
+*************** response log end ***************
+
+[2018-08-02T15:25:09.402] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-08-02T15:31:34.195] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-08-02T15:31:59.044] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: 2
+response status: 200
+response body: 
+{"userName":"阿,李","age":30}
+*************** response log end ***************
+
+[2018-08-02T15:44:02.464] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: 2
+response status: 200
+response body: 
+{"code":0,"message":"success","data":{"userName":"阿,李","age":30}}
+*************** response log end ***************
+
+[2018-08-02T16:14:00.890] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::ffff:10.26.67.15
+request query:  {}
+response time: 5313
+response status: 200
+response body: 
+{"code":0,"message":"success","data":"<!DOCTYPE html><html><head><title>Hello Koa 2!</title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1>Hello Koa 2!</h1><p>Welcome to Hello Koa 2!</p></body></html>"}
+*************** response log end ***************
+
+[2018-08-02T16:14:01.084] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /favicon.ico
+request client ip:  ::ffff:10.26.67.15
+request query:  {}
+response time: 1
+response status: 200
+response body: 
+{"code":0,"message":"success"}
+*************** response log end ***************
+

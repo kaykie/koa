@@ -1,0 +1,160 @@
+[2018-08-06T15:24:03.482] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /json2
+request client ip:  ::1
+request query:  {}
+response time: 4
+err name: SyntaxError
+err message: Unexpected token <
+err stack: E:\profile\koa-test2\html\test\index.html:1
+(function (exports, require, module, __filename, __dirname) { <!DOCTYPE html>
+                                                              ^
+
+SyntaxError: Unexpected token <
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at router.get (E:\profile\koa-test2\routes\index.js:21:14)
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\profile\koa-test2\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\lib\router.js:351:31)
+*************** error log end ***************
+
+[2018-08-06T15:24:16.605] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /json2
+request client ip:  ::1
+request query:  {}
+response time: 3
+err name: SyntaxError
+err message: Unexpected token extends
+err stack: E:\profile\koa-test2\views\index.pug:1
+(function (exports, require, module, __filename, __dirname) { extends layout
+                                                              ^^^^^^^
+
+SyntaxError: Unexpected token extends
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at router.get (E:\profile\koa-test2\routes\index.js:21:14)
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\profile\koa-test2\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\lib\router.js:351:31)
+*************** error log end ***************
+
+[2018-08-06T15:24:17.285] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /json2
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: SyntaxError
+err message: Unexpected token extends
+err stack: E:\profile\koa-test2\views\index.pug:1
+(function (exports, require, module, __filename, __dirname) { extends layout
+                                                              ^^^^^^^
+
+SyntaxError: Unexpected token extends
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at router.get (E:\profile\koa-test2\routes\index.js:21:14)
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\profile\koa-test2\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\lib\router.js:351:31)
+*************** error log end ***************
+
+[2018-08-06T15:24:17.969] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /json2
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: SyntaxError
+err message: Unexpected token extends
+err stack: E:\profile\koa-test2\views\index.pug:1
+(function (exports, require, module, __filename, __dirname) { extends layout
+                                                              ^^^^^^^
+
+SyntaxError: Unexpected token extends
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at router.get (E:\profile\koa-test2\routes\index.js:21:14)
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\profile\koa-test2\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\lib\router.js:351:31)
+*************** error log end ***************
+
+[2018-08-06T15:24:18.456] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /json2
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: SyntaxError
+err message: Unexpected token extends
+err stack: E:\profile\koa-test2\views\index.pug:1
+(function (exports, require, module, __filename, __dirname) { extends layout
+                                                              ^^^^^^^
+
+SyntaxError: Unexpected token extends
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at router.get (E:\profile\koa-test2\routes\index.js:21:14)
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\profile\koa-test2\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\profile\koa-test2\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\profile\koa-test2\node_modules\koa-router\lib\router.js:351:31)
+*************** error log end ***************
+
